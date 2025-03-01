@@ -4,7 +4,7 @@
 
 ```bash
 # rustscan_TCP
-sudo $(which rustscan) -a 192.168.201.209 -- -A -oN nmap.txt
+sudo $(which rustscan) -a 192.168.1.1 -- -A -oN nmap.txt
 ```
 
 ```bash
